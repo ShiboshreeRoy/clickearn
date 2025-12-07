@@ -51,7 +51,7 @@ Follow these steps to set up the project on your local machine (XAMPP/WAMP) or l
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/clickearn.git](https://github.com/yourusername/clickearn.git)
+git clone [https://github.com/shiboshreeroy/clickearn.git](https://github.com/yourusername/clickearn.git)
 cd clickearn
 ````
 
