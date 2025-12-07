@@ -200,11 +200,14 @@ VALUES ('SuperAdmin', 'admin@platform.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa
 
 ## 📸 Project Screenshots
 
-*(Add your screenshots here. Example structure below)*
+**Leanding Page**
+![Click Earn ](./images/click.png)
 
 | **User Dashboard** | **Admin Panel** |
 |:---:|:---:|
-| \<img src="screenshots/dashboard.png" width="400"\> | \<img src="screenshots/admin.png" width="400"\> |
+| ![user](./images/user.png)  
+---
+![admin](./images/admin.png)|
 
 -----
 
